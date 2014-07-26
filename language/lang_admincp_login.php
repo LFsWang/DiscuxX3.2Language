@@ -13,8 +13,8 @@ if(!defined('IN_DISCUZ')) {
 
 $lang = array
 (
-	'login_title' => '登錄管理中心',
-	'login_username' => '用戶名',
+	'login_title' => '登入管理中心',
+	'login_username' => '使用者名稱',
 	'login_password' => '密　碼',
 
 	'submit' => '提交',
